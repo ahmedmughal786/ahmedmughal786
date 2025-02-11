@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedmughal786
 - 👀 I’m interested in Software & Web developments.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on software projects & web development
 - 📫 How to reach me https://www.linkedin.com/in/ahmed-ali-jawad/ 
 - 😄 Pronouns: He/Him
 
